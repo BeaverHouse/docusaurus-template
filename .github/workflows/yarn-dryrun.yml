@@ -1,0 +1,26 @@
+name: Dry-run (Yarn)
+
+on:
+  workflow_dispatch:
+# push:
+#   branches: ["**"]
+#   paths-ignore:
+#     - "README.md"
+
+jobs:
+  dryrun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install
+      - name: ESLint check
+        run: yarn lint
+      - name: Build website
+        run: yarn build
+# Standard dry-run workflow for frontend repository
