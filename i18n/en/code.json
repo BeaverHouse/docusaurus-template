@@ -17,7 +17,7 @@
     "description": "Title for subject 2"
   },
   "subject-description-2": {
-    "message": "Basic settings are already configured like folder structure or i18n."
+    "message": "Basic settings are already configured, like folder structure or i18n."
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
