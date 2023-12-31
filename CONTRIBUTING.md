@@ -1,12 +1,12 @@
 # About Contributing
 
 <!-- below for ⚠Minimum maintenance -->
-
-⚠ This repository is being maintained with minimum.  
-Only bug report & question are allowed in Issues/Pull Requests.  
-⚠ 이 Repository는 최소한으로 유지 관리되고 있습니다.  
+<!--
+⚠ This repository is being maintained with minimum.
+Only bug report & question are allowed in Issues/Pull Requests.
+⚠ 이 Repository는 최소한으로 유지 관리되고 있습니다.
 Issue/PR은 버그와 질문만 받고 있습니다.
-
+ -->
 <!-- below for ✅Active, ⚠Minimum maintenance -->
 
 Please write the Issue/Pull Request in detail clearly.  
@@ -27,6 +27,7 @@ I cannot resolve all of the opinions and issues, as an individual. Please unders
 Dependency 자체 문제, 개인이 해결할 수 없는 문제 등 일부 문제는 해결해 드리지 못할 수도 있습니다. 양해 부탁드립니다.
 
 <!-- below for ⛔Deprecated -->
-
-⛔ This repository's code is deprecated, so we won't accept any contribution.  
+<!--
+⛔ This repository's code is deprecated, so we won't accept any contribution.
 ⛔ 이 Repository는 더 이상 사용되지 않으며, 피드백도 받지 않습니다.
+-->

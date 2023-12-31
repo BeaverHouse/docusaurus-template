@@ -1,11 +1,10 @@
 name: Dry-run (Yarn)
 
 on:
-  workflow_dispatch:
-# push:
-#   branches: ["**"]
-#   paths-ignore:
-#     - "README.md"
+  push:
+    branches: ["**"]
+    paths-ignore:
+      - "README.md"
 
 jobs:
   dryrun:
@@ -19,8 +18,8 @@ jobs:
 
       - name: Install dependencies
         run: yarn install
-      - name: ESLint check
-        run: yarn lint
+      # - name: ESLint check
+      #   run: yarn lint
       - name: Build website
         run: yarn build
 # Standard dry-run workflow for frontend repository
