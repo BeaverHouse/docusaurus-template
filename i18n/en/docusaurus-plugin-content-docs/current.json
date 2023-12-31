@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.1. Chapter 1": {
+    "message": "1. Chapter 1",
+    "description": "The label for category 1. Chapter 1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.2. Chapter 2": {
+    "message": "2. Chapter 2",
+    "description": "The label for category 2. Chapter 2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3. Chapter 3": {
+    "message": "3. Chapter 3",
+    "description": "The label for category 3. Chapter 3 in sidebar tutorialSidebar"
+  }
+}
