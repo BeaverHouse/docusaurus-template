@@ -1,0 +1,34 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Other Sites": {
+    "message": "Other Sites",
+    "description": "The title of the footer links column with title=Other Sites in the footer"
+  },
+  "link.title.More about HU-Lee": {
+    "message": "More about HU-Lee",
+    "description": "The title of the footer links column with title=More about HU-Lee in the footer"
+  },
+  "link.item.label.Start Docs": {
+    "message": "Start Docs",
+    "description": "The label of footer link with label=Start Docs linking to /docs/get_started"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://blog.haulrest.me/"
+  },
+  "link.item.label.Profile": {
+    "message": "Profile",
+    "description": "The label of footer link with label=Profile linking to https://profile.haulrest.me/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/HU-Lee"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 HU-Lee. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
